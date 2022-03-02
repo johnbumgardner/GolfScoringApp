@@ -1,0 +1,6 @@
+module Pods_GolfScoringApp {
+  umbrella header "Pods-GolfScoringApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
