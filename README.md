@@ -1,0 +1,1 @@
+Mobile application that allows a user to select a saved image of a score card and send a POST request to our flask microservice to get it scored.
